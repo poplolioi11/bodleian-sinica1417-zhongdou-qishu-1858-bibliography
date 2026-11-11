@@ -33,3 +33,7 @@ Ying ji li guo xin chu zhong dou qi shu (𠸄咭唎國新出種痘奇書) is a C
 [資料庫](https://github.com/poplolioi11/bodleian-sinica1417-zhongdou-qishu-1858-bibliography)／[固定發行版](https://github.com/poplolioi11/bodleian-sinica1417-zhongdou-qishu-1858-bibliography/releases/tag/v0.1.0)／[可直接閱讀的書目TXT](record.txt)。本版製備時尚未取得DOI；正式封存與ORCID同步另以平台實際讀回為準。
 
 書目訂正請在[Issues](https://github.com/poplolioi11/bodleian-sinica1417-zhongdou-qishu-1858-bibliography/issues)附來源及具體欄位。圖像、原書正文、私人方法與完整工作紀錄未收錄。
+
+[0.1.0 DOI](https://doi.org/10.5281/zenodo.24146872) · [所有版本](https://doi.org/10.5281/zenodo.24146871) · [GitHub v0.1.0](https://github.com/poplolioi11/bodleian-sinica1417-zhongdou-qishu-1858-bibliography/releases/tag/v0.1.0) · [醫學史社群](https://zenodo.org/communities/late-qing-medical-history/)
+
+本主分支於固定版公開後補入 DOI 與引用連結。SHA256SUMS 驗證固定 release 內容；封存包保留製備時的文件，現行發布狀態以本頁與 DOI 頁為準。
