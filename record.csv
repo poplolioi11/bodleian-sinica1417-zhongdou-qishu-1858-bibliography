@@ -1,0 +1,10 @@
+field,value,source_id,qualification
+shelfmark,Sinica 1417,bodleian-tei,
+title_catalogue_literal,英咭唎國新出種痘奇書,bodleian-tei,Original first character described by the catalogue as having 口 on the left
+title_variant,𠸄咭唎國新出種痘奇書,serica,Variant is not a new source-image transcription
+pinyin,ying ji li guo xin chu zhong dou qi shu,bodleian-tei,
+editor,"Lobscheid, Wilhelm",bodleian-tei,Ed. by W Lobscheid
+publication_year,1858,bodleian-tei,Catalogue attribution
+publication_place,[Hong Kong],bodleian-tei,Bracketed supplied place; not an image-verified imprint
+extent,"線裝1冊(1, 6頁) : 圖 ; 19.7公分",serica,"Catalogue extent, not a newly counted physical scope"
+manifest_canvases,10,iiif,Image inventory only; not physical leaf/face count

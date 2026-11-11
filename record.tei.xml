@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sinica1417-bibliography">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>𠸄咭唎國新出種痘奇書 / Ying ji li guo xin chu zhong dou qi shu [A new treatise on vaccination from England]: Sinica 1417 (1858), bibliographic record</title>
+        <author ref="https://orcid.org/0009-0003-9738-6914">Chu, Chen-Yu</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Chen-Yu Chu</publisher><availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Newly written descriptions and compilation: CC BY 4.0</licence>
+        </availability>
+      <date when="2026-11-11">2026-11-11</date><idno type="URI">https://github.com/poplolioi11/bodleian-sinica1417-zhongdou-qishu-1858-bibliography/releases/tag/v0.1.0</idno></publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>英咭唎國新出種痘奇書</title>
+          <editor>Lobscheid, Wilhelm</editor>
+          <pubPlace>[Hong Kong]</pubPlace>
+          <date when="1858">1858</date>
+          <idno type="shelfmark">Sinica 1417</idno>
+          <ref target="https://digital.bodleian.ox.ac.uk/objects/521aeb36-b21d-4536-bd16-d6157210aac3/">Official digitized item</ref>
+          <ref target="https://github.com/bodleian/east-asian-mss/blob/650ddc6cba758eeb892d2cacb25599bb23bd75ab/collections/chinese/Sinica%201417.xml">Official catalogue snapshot</ref>
+          <note>Original first character is described by the catalogue as having 口 on the left. No new image-based reading is claimed.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>This file encodes a bibliographic record. It contains no transcription of the historical book.</p>
+    </encodingDesc>
+  <profileDesc><langUsage><language ident="zh-Hant">Traditional Chinese bibliographic documentation</language><language ident="en">English bibliographic documentation</language></langUsage></profileDesc></teiHeader>
+  <text>
+    <body>
+      <div type="bibliographicRecord">
+        <p xml:lang="zh-Hant">《𠸄咭唎國新出種痘奇書》（Ying ji li guo xin chu zhong dou qi shu）是牛津博德利圖書館藏、館目記為1858年於[香港]刊行並由Wilhelm Lobscheid編輯的中文種痘文獻（Sinica 1417）。本書目資料集整理題名異體、編者、刊年刊地、冊葉著錄，以及原件與IIIF影像的穩定連結，供晚清醫學出版、翻譯與文獻流通史研究定位此版本。提供JSON、CSV及TEI XML書目資料與中英文說明；未轉錄原書正文。資料由AI依館方書目及數位影像清單協助整理，尚未經人類專家審定；方括號刊地與題名首字的證據界線保留於來源及方法說明。</p>
+        <p xml:lang="en">Ying ji li guo xin chu zhong dou qi shu (𠸄咭唎國新出種痘奇書) is a Chinese vaccination publication held by the Bodleian Library, Oxford, catalogued as an 1858 [Hong Kong] edition edited by Wilhelm Lobscheid (Sinica 1417). This bibliographic dataset identifies its title variants, editor, publication date and place, catalogued extent, and stable links to the original item and IIIF images, for research on late Qing medical publishing, translation, and circulation. It supplies JSON, CSV, and TEI XML bibliographic records with Chinese and English documentation; it does not transcribe the book. The records were compiled with AI assistance from the library catalogue and digital image inventory and have not been reviewed by a human subject specialist; the bracketed place and first title character retain their source qualifications.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

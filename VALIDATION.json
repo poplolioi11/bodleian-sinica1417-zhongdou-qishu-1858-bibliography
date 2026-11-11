@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "scope": "Bibliographic facts and source links, CFF1.2.0 and TEI P5 schema, explicit format projections, private-marker scan; not image reading, fullbook transcription, expert review or accuracy measurement",
+  "fixed_official_catalogue_sha256": "15b0539c1a7e30377ad8d5910f0ee928f9ea9cc1fdbabbdc9c5adc2af7a64e87",
+  "teip5_schema_sha256": "b0f115095ead2ccc6933aa3365c6f4a82cba3b2ec7eee7f76bb616d7a63b7e48",
+  "cff_schema_sha256": "0b8d22140da702d766df318dcff3a91af2f39521298dcf36d76315fd99cc169b",
+  "original_body_transcribed": false,
+  "source_images_included": false
+}

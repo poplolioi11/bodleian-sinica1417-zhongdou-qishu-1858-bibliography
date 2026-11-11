@@ -1,0 +1,157 @@
+{
+  "schema": "historical-book-bibliographic-record/1",
+  "record_id": "bodleian-sinica1417-1858",
+  "resource_type": "bibliographic-dataset",
+  "dataset_title": "𠸄咭唎國新出種痘奇書 / Ying ji li guo xin chu zhong dou qi shu [A new treatise on vaccination from England]: Sinica 1417 (1858), bibliographic record",
+  "version": "0.1.0",
+  "record_creator": {
+    "name": "Chu, Chen-Yu",
+    "name_zh": "曲宸宇",
+    "orcid": "https://orcid.org/0009-0003-9738-6914"
+  },
+  "book": {
+    "shelfmark": "Sinica 1417",
+    "holding_institution": "Bodleian Library, University of Oxford",
+    "title_catalogue_literal": "英咭唎國新出種痘奇書",
+    "title_variant": "𠸄咭唎國新出種痘奇書",
+    "title_variant_basis": "Official catalogue note states that the original first character has 口 on the left; the variant is also used by Serica. No new image-based title reading is claimed.",
+    "pinyin_catalogue_literal": "ying ji li guo xin chu zhong dou qi shu",
+    "pinyin_display": "Ying ji li guo xin chu zhong dou qi shu",
+    "english_title_editorial": "A new treatise on vaccination from England",
+    "english_title_status": "Editorial translation, not a historical title-page transcription",
+    "responsibility": [
+      {
+        "name": "Lobscheid, Wilhelm",
+        "role": "editor",
+        "basis": "Ed. by W Lobscheid"
+      }
+    ],
+    "publication_year": "1858",
+    "publication_year_basis": "Library catalogue",
+    "publication_place_literal": "[Hong Kong]",
+    "publication_place_normalized": "Hong Kong",
+    "publication_place_certainty": "Supplied in brackets by the catalogue; not newly verified from an imprint",
+    "publisher": null,
+    "language": "lzh",
+    "extent_catalogue_literal": "線裝1冊(1, 6頁) : 圖 ; 19.7公分",
+    "extent_is_image_verified": false,
+    "digital_inventory": {
+      "manifest_canvases": 10,
+      "physical_content_faces_verified": null,
+      "canvas_count_is_not_leaf_count": true
+    }
+  },
+  "abstract": {
+    "zh-Hant": "《𠸄咭唎國新出種痘奇書》（Ying ji li guo xin chu zhong dou qi shu）是牛津博德利圖書館藏、館目記為1858年於[香港]刊行並由Wilhelm Lobscheid編輯的中文種痘文獻（Sinica 1417）。本書目資料集整理題名異體、編者、刊年刊地、冊葉著錄，以及原件與IIIF影像的穩定連結，供晚清醫學出版、翻譯與文獻流通史研究定位此版本。提供JSON、CSV及TEI XML書目資料與中英文說明；未轉錄原書正文。資料由AI依館方書目及數位影像清單協助整理，尚未經人類專家審定；方括號刊地與題名首字的證據界線保留於來源及方法說明。",
+    "en": "Ying ji li guo xin chu zhong dou qi shu (𠸄咭唎國新出種痘奇書) is a Chinese vaccination publication held by the Bodleian Library, Oxford, catalogued as an 1858 [Hong Kong] edition edited by Wilhelm Lobscheid (Sinica 1417). This bibliographic dataset identifies its title variants, editor, publication date and place, catalogued extent, and stable links to the original item and IIIF images, for research on late Qing medical publishing, translation, and circulation. It supplies JSON, CSV, and TEI XML bibliographic records with Chinese and English documentation; it does not transcribe the book. The records were compiled with AI assistance from the library catalogue and digital image inventory and have not been reviewed by a human subject specialist; the bracketed place and first title character retain their source qualifications."
+  },
+  "scope": {
+    "included": [
+      "Bibliographic identification",
+      "Title variants and catalogue transcription",
+      "Edition-specific responsibility and imprint metadata",
+      "Source links for print and circulation history"
+    ],
+    "original_body_transcribed": false,
+    "source_images_included": false
+  },
+  "sources": [
+    {
+      "id": "bodleian-tei",
+      "url": "https://github.com/bodleian/east-asian-mss/blob/650ddc6cba758eeb892d2cacb25599bb23bd75ab/collections/chinese/Sinica%201417.xml",
+      "type": "official-catalogue-snapshot",
+      "commit": "650ddc6cba758eeb892d2cacb25599bb23bd75ab",
+      "sha256": "15b0539c1a7e30377ad8d5910f0ee928f9ea9cc1fdbabbdc9c5adc2af7a64e87"
+    },
+    {
+      "id": "bodleian-catalogue",
+      "url": "https://east-asian.bodleian.ox.ac.uk/catalog/volume_1133",
+      "type": "official-catalogue"
+    },
+    {
+      "id": "solo",
+      "url": "https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990221407390107026",
+      "type": "official-library-record"
+    },
+    {
+      "id": "digital-bodleian",
+      "url": "https://digital.bodleian.ox.ac.uk/objects/521aeb36-b21d-4536-bd16-d6157210aac3/",
+      "type": "official-digitized-item"
+    },
+    {
+      "id": "iiif",
+      "url": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/521aeb36-b21d-4536-bd16-d6157210aac3.json",
+      "type": "official-IIIF-presentation-manifest",
+      "manifest_sha256": "c7a8473ded9ddd8dc31fdcfbe666900cf1fcb06e3712c3d1fdc6ee23a5ce5e1e"
+    },
+    {
+      "id": "serica",
+      "url": "https://serica.ie/SericaProject/data/976.html",
+      "type": "independent-cataloguer-maintained-bibliography"
+    },
+    {
+      "id": "wylie1867",
+      "url": "https://archive.org/details/08916467.1436.emory.edu",
+      "type": "historical-bibliography",
+      "citation": "Wylie, Alexander. 1867. Memorials of Protestant missionaries to the Chinese. Shanghai: American Presbyterian Mission Press, printed p.186, publications by Wilhelm Lobscheid, no.11.",
+      "verification": "Ordinarily accessible Internet Archive item metadata and existing DjVuTXT read; no new source-image collation."
+    }
+  ],
+  "rights": {
+    "dataset": {
+      "id": "cc-by-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "scope": "Newly written descriptions and bibliographic compilation"
+    },
+    "source_scan": {
+      "id": "cc-by-nc-4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "scope": "Bodleian source images, not redistributed here",
+      "attribution": "Photo: © Bodleian Libraries, University of Oxford"
+    },
+    "source_terms": "https://digital.bodleian.ox.ac.uk/terms/"
+  },
+  "quality": {
+    "compilation": "AI-assisted bibliographic compilation",
+    "human_expert_review": false,
+    "original_fulltext_transcription": false,
+    "measured_text_accuracy": null
+  },
+  "checked_date": "2026-11-11",
+  "research_context": [
+    {
+      "citation": "Chang, Chia-Feng (張嘉鳳). 2007. The Localization of the Cowpox Vaccination in Early Nineteenth-Century China. Bulletin of the Institute of History and Philology 78(4):755–812.",
+      "doi": "10.6355/BIHPAS.200712.0755",
+      "url": "https://scholars.lib.ntu.edu.tw/entities/publication/32d5e942-87a8-40ea-a37b-221d3f87b698",
+      "scope": "Research context on the 1805 text and related early-nineteenth-century works; not proof that the Oxford 1858 witness has identical wording or identical responsibility statements."
+    }
+  ],
+  "edition_history_evidence": [
+    {
+      "source_id": "wylie1867",
+      "observation": "Wylie lists a Hong Kong, seven-leaf, same-title tract among publications by Lobscheid and describes it as a modification of an earlier tract written by Pearson, translated by Staunton, and published at Canton in 1805.",
+      "scope": "A historical bibliographic testimony to an adaptation relationship; not an image-based identification or textual collation of the Oxford witness. Wylie does not give 1858 in this entry; the Oxford date is supplied separately by its catalogue."
+    }
+  ],
+  "keywords": [
+    "𠸄咭唎國新出種痘奇書",
+    "英咭唎國新出種痘奇書",
+    "Sinica 1417",
+    "Ying ji li guo xin chu zhong dou qi shu",
+    "Wilhelm Lobscheid",
+    "Hong Kong",
+    "醫學史",
+    "晚清出版",
+    "翻譯史",
+    "書目資料",
+    "Chinese medical history",
+    "Late Qing publishing",
+    "Translation history",
+    "Bibliography"
+  ],
+  "repository_url": "https://github.com/poplolioi11/bodleian-sinica1417-zhongdou-qishu-1858-bibliography",
+  "documentation_languages": [
+    "zh-Hant",
+    "en"
+  ]
+}

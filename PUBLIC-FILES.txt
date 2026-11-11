@@ -1,0 +1,15 @@
+CHANGELOG.md
+CITATION.cff
+LICENSE.md
+METADATA-PROPOSAL.json
+METHODS.md
+PUBLIC-FILES.txt
+README.md
+SHA256SUMS
+SOURCES.md
+VALIDATION.json
+VERSION-HISTORY.md
+record.csv
+record.json
+record.tei.xml
+record.txt

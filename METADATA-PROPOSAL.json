@@ -1,0 +1,82 @@
+{
+  "type": "dataset",
+  "title": "𠸄咭唎國新出種痘奇書 / Ying ji li guo xin chu zhong dou qi shu [A new treatise on vaccination from England]: Sinica 1417 (1858), bibliographic record",
+  "version": "0.1.0",
+  "publication_date_proposal": "2026-11-11",
+  "creators": [
+    {
+      "family_name": "Chu",
+      "given_name": "Chen-Yu",
+      "orcid": "https://orcid.org/0009-0003-9738-6914"
+    }
+  ],
+  "description": "《𠸄咭唎國新出種痘奇書》（Ying ji li guo xin chu zhong dou qi shu）是牛津博德利圖書館藏、館目記為1858年於[香港]刊行並由Wilhelm Lobscheid編輯的中文種痘文獻（Sinica 1417）。本書目資料集整理題名異體、編者、刊年刊地、冊葉著錄，以及原件與IIIF影像的穩定連結，供晚清醫學出版、翻譯與文獻流通史研究定位此版本。提供JSON、CSV及TEI XML書目資料與中英文說明；未轉錄原書正文。資料由AI依館方書目及數位影像清單協助整理，尚未經人類專家審定；方括號刊地與題名首字的證據界線保留於來源及方法說明。\n\nYing ji li guo xin chu zhong dou qi shu (𠸄咭唎國新出種痘奇書) is a Chinese vaccination publication held by the Bodleian Library, Oxford, catalogued as an 1858 [Hong Kong] edition edited by Wilhelm Lobscheid (Sinica 1417). This bibliographic dataset identifies its title variants, editor, publication date and place, catalogued extent, and stable links to the original item and IIIF images, for research on late Qing medical publishing, translation, and circulation. It supplies JSON, CSV, and TEI XML bibliographic records with Chinese and English documentation; it does not transcribe the book. The records were compiled with AI assistance from the library catalogue and digital image inventory and have not been reviewed by a human subject specialist; the bracketed place and first title character retain their source qualifications.",
+  "methods": "# 方法與品質\n\n這份成果是書目資料與版本定位說明，沒有轉錄原書全文。\n書目事實以牛津官方目錄為主要來源，館目提供的方括號、角色與異字附註均予保留。\nAI協助整理及中英文說明尚未經人類專家審定；原件影像連結供讀者另行查證。\n\n## 整理範圍\n\n以Sinica 1417固定館藏號辨識本件，核對官方TEI書目、原件IIIF影像清單及Serica書目。原字串與編者顯示名分欄保存；英文書名是本包編者意譯，不當作原書英題。資料中的1858與[Hong Kong]屬原書書目層，不是本資料集的出版年地。\n\n本包只提供版本、題名、出版與責任欄位，以及翻譯／出版／文獻流通史研究的定位資訊；不重建、整理或轉錄歷史操作性種痘正文。未檢視全書影像，因此沒有宣稱影像核字、全書物理葉面盤點或破損判定。\n\n## 證據限制\n\n- 𠸄字採用Serica題名與官方目錄的口在左附註；不是本輪重新讀圖所得。\n- 刊地[Hong Kong]原有方括號保留，不能當作已從刊記核實的無疑地點。\n- 編者Lobscheid與早期同題文本的著譯者分開；本包未證明1858版與1805版的逐字傳承。\n- 已有的現代研究文獻只列研究背景，不複製其內容或用其結論代替本件版別校勘。\n\n## AI與查核狀態\n\n使用AI進行書目擷取、來源比較及說明初稿；實際模型識別、推理設定及用量如無可核證據則保持未知，不填零。未做人類全文雙校、專家審定、同儕審查或辨識準確率量測。檔案格式與引用識別碼均不證明歷史文字正確。\n\n原件影像、裁片、專用程式、提示與完整私人工作紀錄不在公開包內。公開來源與欄位證據可供逐項核查；沒有提供由影像完整重跑轉錄的流程，因本成果並未做該種轉錄。\n",
+  "notes": "Bibliographic record and edition-history source guide only; no historical full-text transcription or source images. JSON, CSV, TXT and TEI XML encode different projections of the same cited bibliographic record. The historical book is catalogued as1858,[Hong Kong]; these are source-publication facts, not the dataset publication location. The bracketed English title is an editorial translation. Historical source language:lzh; dataset documentation languages:zho,eng. Source-image CC BY-NC4.0 terms apply separately and are not a licence on this image-free package.",
+  "keywords": [
+    "𠸄咭唎國新出種痘奇書",
+    "英咭唎國新出種痘奇書",
+    "Sinica 1417",
+    "Ying ji li guo xin chu zhong dou qi shu",
+    "Wilhelm Lobscheid",
+    "Hong Kong",
+    "醫學史",
+    "晚清出版",
+    "翻譯史",
+    "書目資料",
+    "Chinese medical history",
+    "Late Qing publishing",
+    "Translation history",
+    "Bibliography"
+  ],
+  "languages": [
+    "zho",
+    "eng"
+  ],
+  "license": "cc-by-4.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/bodleian/east-asian-mss/blob/650ddc6cba758eeb892d2cacb25599bb23bd75ab/collections/chinese/Sinica%201417.xml",
+      "relation": "References"
+    },
+    {
+      "identifier": "https://east-asian.bodleian.ox.ac.uk/catalog/volume_1133",
+      "relation": "References"
+    },
+    {
+      "identifier": "https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990221407390107026",
+      "relation": "References"
+    },
+    {
+      "identifier": "https://digital.bodleian.ox.ac.uk/objects/521aeb36-b21d-4536-bd16-d6157210aac3/",
+      "relation": "References"
+    },
+    {
+      "identifier": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/521aeb36-b21d-4536-bd16-d6157210aac3.json",
+      "relation": "References"
+    },
+    {
+      "identifier": "https://serica.ie/SericaProject/data/976.html",
+      "relation": "References"
+    },
+    {
+      "identifier": "https://archive.org/details/08916467.1436.emory.edu",
+      "relation": "References"
+    },
+    {
+      "identifier": "https://github.com/poplolioi11/bodleian-sinica1417-zhongdou-qishu-1858-bibliography",
+      "relation": "IsSupplementTo"
+    },
+    {
+      "identifier": "https://github.com/poplolioi11/bodleian-sinica1417-zhongdou-qishu-1858-bibliography/releases/tag/v0.1.0",
+      "relation": "IsSupplementTo"
+    }
+  ],
+  "source_publication": {
+    "year": "1858",
+    "place": "[Hong Kong]",
+    "place_certainty": "catalogue-supplied"
+  },
+  "doi": null,
+  "concept_doi": null
+}
