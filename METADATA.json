@@ -1,0 +1,129 @@
+{
+  "dataset_id": "bodleian-sinica1417",
+  "title": "𠸄咭唎國新出種痘奇書 / Ying ji li guo xin chu zhong dou qi shu [A new treatise on vaccination from England]: Sinica 1417 (1858), transcription dataset",
+  "version": "0.2.0",
+  "concept_doi": "10.5281/zenodo.24146871",
+  "creators": [
+    {
+      "name": "Chu, Chen-Yu",
+      "family_name": "Chu",
+      "given_name": "Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  ],
+  "source": {
+    "historical_title": "𠸄咭唎國新出種痘奇書",
+    "romanization_literal": "ying ji li guo xin chu zhong dou qi shu",
+    "romanization_display": "Ying ji li guo xin chu zhong dou qi shu",
+    "english_short_title": "A new treatise on vaccination from England",
+    "english_short_title_basis": "Editorial translation; historical official status not asserted",
+    "historical_editor": "Wilhelm Lobscheid",
+    "historical_responsibility": "The catalogue attributes editing of the1858 edition to Wilhelm Lobscheid. Historical responsibilities printed in the source are retained literally in the transcription and are distinct from the modern dataset creator.",
+    "catalogued_publication_year": "1858",
+    "publication_year_basis": "1858 catalogue date supported by the reprint imprint atc009-R; the earlier1804 colophon is preserved separately, not used to date this physical edition.",
+    "catalogued_place": "[Hong Kong]",
+    "publication_place_basis": "[Hong Kong] is the supplied catalogue location; the source prints 本港 without spelling the city.",
+    "institution": "Bodleian Libraries, University of Oxford",
+    "shelfmark": "Sinica 1417",
+    "object_url": "https://digital.bodleian.ox.ac.uk/objects/521aeb36-b21d-4536-bd16-d6157210aac3/",
+    "manifest_url": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/521aeb36-b21d-4536-bd16-d6157210aac3.json",
+    "catalogue_url": "https://east-asian.bodleian.ox.ac.uk/catalog/volume_1133",
+    "title_catalogue_literal": "英咭唎國新出種痘奇書",
+    "title_source_reading": "𠸄咭唎國新出種痘奇書",
+    "printed_dates": [
+      {
+        "text": "一千八百零四年",
+        "locator": "c008-L-u008",
+        "role": "earlier colophon retained in this witness; not the physical witness date"
+      },
+      {
+        "text": "一千八百五十八年本港",
+        "locator": "c009-R-u001",
+        "role": "reprint imprint, followed by 憲諭重刻"
+      }
+    ],
+    "printed_places": [
+      "本港"
+    ],
+    "date_note": "Source dates and modern dataset publication dates are separate."
+  },
+  "scope": {
+    "official_canvases": 10,
+    "main_original_printed_faces": 14,
+    "face_ids": [
+      "c002-L",
+      "c003-R",
+      "c003-L",
+      "c004-R",
+      "c004-L",
+      "c005-R",
+      "c005-L",
+      "c006-R",
+      "c006-L",
+      "c007-R",
+      "c007-L",
+      "c008-R",
+      "c008-L",
+      "c009-R"
+    ],
+    "body_complete_meaning": "All declared visible main original text faces, including title, diagram text, prose, running titles, folios, responsibilities and colophons have received initial image reading; unresolved text is marked. This does not recover folded or hidden text or reproduce illustrations.",
+    "initial_processing_complete": true,
+    "units": 146,
+    "faithful_units": 123,
+    "faithful_unicode_codepoints": 1816,
+    "provenance_units": 15,
+    "unassigned_fragment_units": 8,
+    "unassigned_fragment_semantics": "Narrow printed remnants have uncertain leaf attribution and possible duplication;8 placeholders are8regions, not8missing characters.",
+    "uncertainty_records": 12,
+    "unprocessed_regions": 0,
+    "images_included": false
+  },
+  "quality": {
+    "initial_transcription": "AI image-based initial reading of all declared main original text faces; unreconciled first public body version",
+    "independent_ai_collation": "not completed for this version",
+    "human_full_double_collation": "not-run",
+    "expert_review": "not-run",
+    "peer_review": "not-run",
+    "accuracy_measurement": "not-run",
+    "actual_native_model": null,
+    "actual_native_effort": null,
+    "native_token_counters": null,
+    "unresolved_regions": "12 records:10 image-insufficient and2 reading-unresolved; records are not a missing-character total."
+  },
+  "languages": {
+    "source_text": [
+      "lzh",
+      "zho"
+    ],
+    "source_register_note": "Nineteenth-century Chinese, with literary exposition and vernacular/Cantonese expressions; the codes do not imply every passage is uniformly literary Chinese.",
+    "documentation": [
+      "zh-Hant",
+      "en"
+    ]
+  },
+  "abstracts": {
+    "zh-Hant": "《𠸄咭唎國新出種痘奇書》（Ying ji li guo xin chu zhong dou qi shu；牛津博德利圖書館 Sinica 1417）是館目著錄由羅存德（Wilhelm Lobscheid）編輯、1858 年在［香港］重刻的漢文種痘小冊。原書敘述西方種痘法的傳入與流傳，附器具及痘形圖說、歷史論述與刊刻題署，可作晚清醫學出版、漢譯醫學及香港印刷史的文獻材料。本版首次提供這一館藏本14個主要原印文字面的影像初錄，另分列後加館藏文字及未歸屬折邊殘片，附逐單位來源定位、JSON、TXT與TEI XML。文字由AI輔助轉錄，疑讀與影像缺口已標記，尚未經人類全文校勘或專家審定。",
+    "en": "Ying ji li guo xin chu zhong dou qi shu (𠸄咭唎國新出種痘奇書; Bodleian Libraries, Oxford, Sinica 1417) is a Chinese vaccination pamphlet catalogued as an 1858 [Hong Kong] reprint edited by Wilhelm Lobscheid. It discusses the introduction and circulation of a Western vaccination practice and includes historical explanations, instrument and lesion illustrations with textual labels, and publication statements. It provides source material for research on late Qing medical publishing, medical translation, and Hong Kong printing history. This version first supplies an image-based initial transcription of the witness’s 14 main original printed text faces, with later library inscriptions and unattributed folded-edge fragments distinguished, in source-linked JSON, TXT, and TEI XML. AI-assisted readings and image gaps are marked; the text has not undergone full human collation or subject-specialist review."
+  },
+  "keywords": [
+    "𠸄咭唎國新出種痘奇書",
+    "英咭唎國新出種痘奇書",
+    "Sinica 1417",
+    "Ying ji li guo xin chu zhong dou qi shu",
+    "Wilhelm Lobscheid",
+    "Hong Kong",
+    "醫學史",
+    "晚清出版",
+    "翻譯史",
+    "書目資料",
+    "Chinese medical history",
+    "Late Qing publishing",
+    "Translation history",
+    "Bibliography",
+    "新訂種痘奇法",
+    "TEI XML"
+  ],
+  "doi": "10.5281/zenodo.24182335",
+  "doi_status": "reserved-not-published-at-packaging",
+  "github_release_url": "https://github.com/poplolioi11/bodleian-sinica1417-zhongdou-qishu-1858-bibliography/releases/tag/v0.2.0"
+}

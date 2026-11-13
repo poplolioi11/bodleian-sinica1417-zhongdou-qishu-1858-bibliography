@@ -1,0 +1,9 @@
+# Data dictionary
+
+book.json contains dataset identity, source metadata, scope, quality, pages and units. A page_id such as c006 identifies a full official canvas, not a printed face count. Each page records its official canvas/image URL, fixed-rendition SHA-256, dimensions, layout, layer_states and units. A unit has id, order, layer, role, text, optional face, regional bbox, parent/anchor and gaps. IDs with R/L denote physical sides; unassigned-fragment attribution is uncertain even where an old unit ID retains R. No Unicode normalization is applied.
+
+faithful = main original printed text; provenance = later library/exhibition/handwritten material; unassigned-fragment = visible narrow printed remnants not confidently assigned or deduplicated. Complete layer state denotes completed initial processing with recorded unresolved text, not verified correctness. Blank/nontext pages have no invented text unit.
+
+uncertainties.json records unit/page/source hash, candidates, reason, status and available extent. Candidates are alternatives, not accepted replacements. Positions, where supplied, use0-based Unicode codepoints with an exclusive end; a missing range is not guessed. Refer to unit_id and its bbox/source URL when no precise range exists. Extent unknown is not one character. Each gap retains cause/reason/extent. Record counts are not error counts.
+
+SOURCE-MAP.json binds canvas IDs to official sources and fixed acquisition-rendition hashes. Pixel bbox coordinates refer to the4000×3000 acquired image, with0-based [x1,y1,x2,y2] bounds; they are approximate observed regions, not exact glyph boxes. book.tei.xml is a fixed unit-preserving TEI P5 projection; companion JSON retains richer uncertainty/layout semantics. Its schema validation is structural. Do not discard the sidecar JSON when using TEI.

@@ -1,0 +1,19 @@
+{
+  "status": "passed-structure-only",
+  "publication_status": "not-assessed-by-structural-checker",
+  "release_ready": false,
+  "page_count": 10,
+  "unit_count": 146,
+  "uncertainty_count": 12,
+  "json_txt_tei_fixed_string_order_readback": "passed",
+  "tei_schema": "passed official TEI P5 4.12.0 Relax NG",
+  "source_hash_dimension_bindings": "delivery compared to fixed source-map; source image bytes not reread by adapter",
+  "image_reading": "not-run",
+  "independent_collation": "not-run-by-adapter",
+  "human_review": "not-run-by-adapter",
+  "accuracy_measurement": "not-run",
+  "public_marker_scan": "passed for explicit markers, not comprehensive privacy certification",
+  "unit_bbox": "preserved only if supplied and valid; no geometry invented",
+  "source_images_included": false,
+  "doi_state_at_packaging": "reserved-not-published"
+}

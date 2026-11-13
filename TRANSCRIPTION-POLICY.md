@@ -1,0 +1,9 @@
+# Transcription policy, v1
+
+Faithful text follows the fixed witness’s visible glyphs and original marks. No global simplification/traditionalization, modern orthographic normalization, supplied punctuation, silent correction or text transfer from another edition is applied. Reliable non-BMP characters are retained. An unresolved glyph or unknown-length region is marked with its source location and candidates; a single □ can denote an unknown span and is not a character count. Suspected original misprints remain in the source layer.
+
+Order is the official canvas sequence, then the observed right and left printed faces, vertical columns right-to-left and top-to-bottom. Separate title, diagram, prose, note, running-title, folio, colophon and later-inscription roles are retained. Small notes remain separately anchored where present. Figure labels are textual units; no illustration is reconstructed. Source marks are preserved as encoded by the initial reader; uncertain symbol shape remains a reading issue, not a normalized certainty.
+
+The faithful layer covers14 main original printed faces. Later library/exhibition material is provenance. Narrow folded-edge remnants have the unassigned-fragment layer; their leaf attribution and duplication are unknown. Blank covers/inside covers are recorded as observed blank, not failed OCR. Rulers, colour targets, background and show-through are outside the source-text layers. Read READING-GUIDE.md for the difference between faithful unit order and the derived reading file.
+
+Gap causes separate source-illegible, image-insufficient, reading-unresolved, unprocessed, encoding-incomplete and unknown. This version records10 image-insufficient and2 reading-unresolved cases, with no declared unprocessed or encoding-incomplete region. Completed initial processing is compatible with unresolved source text; it does not imply zero error.

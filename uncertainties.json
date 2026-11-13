@@ -1,0 +1,186 @@
+{
+  "offset_convention": "0-based Unicode codepoints; end exclusive; original sequences retained; no normalization",
+  "candidate_strings_are_not_corrections": true,
+  "records": [
+    {
+      "id": "c001-unc001",
+      "unit_id": "c001-whole-u003",
+      "page_id": "c001",
+      "extent": {
+        "value": 1,
+        "unit": "written_glyph"
+      },
+      "candidates": [
+        "g",
+        "9"
+      ],
+      "reason": "末位上縮且有長下行筆畫，字母 g 與數字 9 的手寫形未能確定；不憑其他號推補。",
+      "source_sha256": "8d784a5a10fd0dbe9af8a30dcf7d5576e262ee80e329a97bb88de6a827e4e769",
+      "status": "reading-unresolved"
+    },
+    {
+      "id": "c001-unc002",
+      "unit_id": "c001-whole-u005",
+      "page_id": "c001",
+      "extent": {
+        "value": null,
+        "unit": "written_glyph",
+        "scope": "first abbreviated word"
+      },
+      "candidates": [
+        "Ser.",
+        "Sei.",
+        "Sci."
+      ],
+      "reason": "圈內首縮寫連筆，現有影像可見筆跡但字母分界不穩；未知字數不作一字計。",
+      "source_sha256": "8d784a5a10fd0dbe9af8a30dcf7d5576e262ee80e329a97bb88de6a827e4e769",
+      "status": "reading-unresolved"
+    },
+    {
+      "id": "c003-unc001",
+      "unit_id": "c003-R-u018",
+      "page_id": "c003",
+      "extent": {
+        "value": null,
+        "unit": "written_glyph",
+        "scope": "multiple lines in central emblem"
+      },
+      "candidates": [],
+      "reason": "章中心開卷形中有極小字跡，固定4000像素母圖及非生成放大不足以逐字判定；不依熟知館章補入銘文。",
+      "source_sha256": "279eec245b5b7c8da9bf014c65f9a82a26079390d69f1b8934b1cfd453f00e61",
+      "status": "image-insufficient"
+    },
+    {
+      "id": "c004-unc001",
+      "unit_id": "c004-R-u009",
+      "page_id": "c004",
+      "extent": {
+        "value": null,
+        "unit": "written_glyph",
+        "scope": "narrow clipped/fold-obscured print fragment"
+      },
+      "candidates": [],
+      "reason": "右端折邊露出原印筆畫窄片；本影像不能顯示完整字身，亦不能可靠計字。不按左面版心或通例補入。",
+      "source_sha256": "f4ea2999f7d542e54fbedfb3270302eadc44d177ab8bc4313cd0f74eefcb2e3d",
+      "status": "image-insufficient"
+    },
+    {
+      "id": "c004-unc002",
+      "unit_id": "c004-R-u010",
+      "page_id": "c004",
+      "extent": {
+        "value": null,
+        "unit": "written_glyph",
+        "scope": "narrow clipped/fold-obscured print fragment"
+      },
+      "candidates": [],
+      "reason": "右端折邊露出原印筆畫窄片；本影像不能顯示完整字身，亦不能可靠計字。不按左面版心或通例補入。",
+      "source_sha256": "f4ea2999f7d542e54fbedfb3270302eadc44d177ab8bc4313cd0f74eefcb2e3d",
+      "status": "image-insufficient"
+    },
+    {
+      "id": "c005-unc001",
+      "unit_id": "c005-R-u009",
+      "page_id": "c005",
+      "extent": {
+        "value": null,
+        "unit": "written_glyph",
+        "scope": "narrow clipped/fold-obscured print fragment"
+      },
+      "candidates": [],
+      "reason": "右端折邊露出原印筆畫窄片；本影像不能顯示完整字身，亦不能可靠計字。不按左面版心或通例補入。",
+      "source_sha256": "6f54dc96bc83a26cdb62ab29a5b04fc5298c7431d9f5d2b1edfafd2b33a0fe0e",
+      "status": "image-insufficient"
+    },
+    {
+      "id": "c005-unc002",
+      "unit_id": "c005-R-u010",
+      "page_id": "c005",
+      "extent": {
+        "value": null,
+        "unit": "written_glyph",
+        "scope": "narrow clipped/fold-obscured print fragment"
+      },
+      "candidates": [],
+      "reason": "右端折邊露出原印筆畫窄片；本影像不能顯示完整字身，亦不能可靠計字。不按左面版心或通例補入。",
+      "source_sha256": "6f54dc96bc83a26cdb62ab29a5b04fc5298c7431d9f5d2b1edfafd2b33a0fe0e",
+      "status": "image-insufficient"
+    },
+    {
+      "id": "c006-unc-edge-print",
+      "unit_id": "c006-R-edge-print",
+      "page_id": "c006",
+      "extent": {
+        "unit": "characters",
+        "quantity": null,
+        "certainty": "unknown",
+        "placeholder_semantics": "one □ marks an unknown-length span, not one missing character"
+      },
+      "candidates": [],
+      "reason": "原印小字貼折頁／疊葉外緣，僅露狹窄筆畫，不能從固定母圖恢復完整字串；不以其他頁題名補文。可見不止一層疊葉細痕，未能可靠分出各文字面及字數。",
+      "source_sha256": "f0909cea0eb48676b1d73fdb86ebfc082d9aacf756fb7cec3e8ee3dcdbf6309e",
+      "status": "image-insufficient"
+    },
+    {
+      "id": "c007-unc-title-first",
+      "unit_id": "c007-L-running-title",
+      "page_id": "c007",
+      "extent": {
+        "unit": "character",
+        "quantity": 1,
+        "certainty": "known"
+      },
+      "candidates": [
+        "新"
+      ],
+      "reason": "首字處在折頁外緣，只見右側筆畫；不依其他頁完整題名回填",
+      "source_sha256": "377732af3454b23026f9b4935ea454092ea1db046e9b1608be2eb2f5e958512f",
+      "status": "image-insufficient"
+    },
+    {
+      "id": "c007-unc-edge-print",
+      "unit_id": "c007-R-edge-print",
+      "page_id": "c007",
+      "extent": {
+        "unit": "characters",
+        "quantity": null,
+        "certainty": "unknown",
+        "placeholder_semantics": "one □ marks an unknown-length span, not one missing character"
+      },
+      "candidates": [],
+      "reason": "原印小字貼折頁／疊葉外緣，僅露狹窄筆畫，不能從固定母圖恢復完整字串；不以其他頁題名補文。",
+      "source_sha256": "377732af3454b23026f9b4935ea454092ea1db046e9b1608be2eb2f5e958512f",
+      "status": "image-insufficient"
+    },
+    {
+      "id": "c008-unc-edge-print",
+      "unit_id": "c008-R-edge-print",
+      "page_id": "c008",
+      "extent": {
+        "unit": "characters",
+        "quantity": null,
+        "certainty": "unknown",
+        "placeholder_semantics": "one □ marks an unknown-length span, not one missing character"
+      },
+      "candidates": [],
+      "reason": "原印小字貼折頁／疊葉外緣，僅露狹窄筆畫，不能從固定母圖恢復完整字串；不以其他頁題名補文。",
+      "source_sha256": "338cce0e5d2bf0076aa75707ebc75a7bb910b7c8325bea66c80abc9c5a712e98",
+      "status": "image-insufficient"
+    },
+    {
+      "id": "c009-unc-edge-print",
+      "unit_id": "c009-R-edge-print",
+      "page_id": "c009",
+      "extent": {
+        "unit": "characters",
+        "quantity": null,
+        "certainty": "unknown",
+        "placeholder_semantics": "one □ marks an unknown-length span, not one missing character"
+      },
+      "candidates": [],
+      "reason": "原印小字貼折頁／疊葉外緣，僅露狹窄筆畫，不能從固定母圖恢復完整字串；不以其他頁題名補文。",
+      "source_sha256": "364c1b06723d303061a493116da2c49d99961e48d1724950d9461142b9aa9e15",
+      "status": "image-insufficient"
+    }
+  ]
+}

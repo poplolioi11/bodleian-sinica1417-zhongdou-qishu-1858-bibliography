@@ -1,5 +1,9 @@
-# 版本紀錄
+# Changelog
 
-## 0.1.0 — 2026-11-11
+## 0.2.0 —2026-11-13
 
-依牛津固定館目整理本件題名、版本與原件入口，另列Wylie1867的版本史書目見證；提供JSON、CSV、TXT與TEI書目交換資料。不是原書全文轉錄，也未完成兩版正文逐字校比。
+First body transcription of Sinica1417:14 main original printed faces within10 official canvases; textual diagram labels, notes, running titles, responsibilities and colophons included. Later inscriptions and uncertain edge fragments are separated. Added source-linked JSON/TXT/TEI, a reading derivative, uncertainties and reader documentation. Initial AI reading only; independent collation is not completed for this version.
+
+## 0.1.0 —2026-11-11
+
+Bibliographic dataset only; no body transcription. Retained as originally published.

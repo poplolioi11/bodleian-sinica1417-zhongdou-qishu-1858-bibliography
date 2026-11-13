@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>𠸄咭唎國新出種痘奇書 / Ying ji li guo xin chu zhong dou qi shu [A new treatise on vaccination from England]: Sinica 1417 (1858), transcription dataset</title>
+        <respStmt>
+          <resp>Dataset curation and encoding; text-reading roles are specified separately in the quality documentation</resp>
+          <name ref="https://orcid.org/0009-0003-9738-6914">Chu, Chen-Yu</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>0.2.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Chu, Chen-Yu</publisher>
+        <idno type="DOI">10.5281/zenodo.24182335</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Original documentation: CC BY 4.0. No new exclusive restrictions asserted over historical text. Source images are excluded and have separate terms.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>𠸄咭唎國新出種痘奇書</title>
+          <respStmt>
+            <resp>historical editor</resp>
+            <name>Wilhelm Lobscheid</name>
+          </respStmt>
+          <respStmt>
+            <resp>historical responsibility</resp>
+            <name>The catalogue attributes editing of the1858 edition to Wilhelm Lobscheid. Historical responsibilities printed in the source are retained literally in the transcription and are distinct from the modern dataset creator.</name>
+          </respStmt>
+          <idno type="shelfmark">Sinica 1417</idno>
+          <ref target="https://digital.bodleian.ox.ac.uk/objects/521aeb36-b21d-4536-bd16-d6157210aac3/">Original facsimile</ref>
+          <ref target="https://iiif.bodleian.ox.ac.uk/iiif/manifest/521aeb36-b21d-4536-bd16-d6157210aac3.json">Official IIIF manifest</ref>
+          <ref target="https://east-asian.bodleian.ox.ac.uk/catalog/volume_1133">Official catalogue</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Deterministic unit-preserving projection of the fixed source-linked text data; it does not perform image reading or expand the declared scope.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>No normalization, punctuation addition, correction or inferred text. Unit boundaries and whitespace retain fixed strings. Read uncertainties, source relationships and quality declarations in the companion JSON and documentation. This is not a complete critical apparatus.</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="surface-c001">
+      <desc>Saved source image SHA-256 8d784a5a10fd0dbe9af8a30dcf7d5576e262ee80e329a97bb88de6a827e4e769</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/9f0ac8f6-d12a-4963-a42a-a14d5a107bf2/full/4000,/0/default.jpg"/>
+    </surface>
+    <surface xml:id="surface-c002">
+      <desc>Saved source image SHA-256 0ecce60fc4493a22094585296363660483001b7c6784c75f03252429a1b31cd4</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/420980ad-6651-4c33-ac06-e79c99e6cc77/full/4000,/0/default.jpg"/>
+    </surface>
+    <surface xml:id="surface-c003">
+      <desc>Saved source image SHA-256 279eec245b5b7c8da9bf014c65f9a82a26079390d69f1b8934b1cfd453f00e61</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/81703c33-fec9-423d-9964-c881a2ee1ceb/full/4000,/0/default.jpg"/>
+    </surface>
+    <surface xml:id="surface-c004">
+      <desc>Saved source image SHA-256 f4ea2999f7d542e54fbedfb3270302eadc44d177ab8bc4313cd0f74eefcb2e3d</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/f837b730-ebc6-4aac-be23-5a267883f467/full/4000,/0/default.jpg"/>
+    </surface>
+    <surface xml:id="surface-c005">
+      <desc>Saved source image SHA-256 6f54dc96bc83a26cdb62ab29a5b04fc5298c7431d9f5d2b1edfafd2b33a0fe0e</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/ffe010ee-1822-4e97-8190-5bc83d20e921/full/4000,/0/default.jpg"/>
+    </surface>
+    <surface xml:id="surface-c006">
+      <desc>Saved source image SHA-256 f0909cea0eb48676b1d73fdb86ebfc082d9aacf756fb7cec3e8ee3dcdbf6309e</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/4afdf508-9f35-43d0-9e33-96aed8308f90/full/4000,/0/default.jpg"/>
+    </surface>
+    <surface xml:id="surface-c007">
+      <desc>Saved source image SHA-256 377732af3454b23026f9b4935ea454092ea1db046e9b1608be2eb2f5e958512f</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/4173ed87-28f6-46b0-937b-28eb87764765/full/4000,/0/default.jpg"/>
+    </surface>
+    <surface xml:id="surface-c008">
+      <desc>Saved source image SHA-256 338cce0e5d2bf0076aa75707ebc75a7bb910b7c8325bea66c80abc9c5a712e98</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/4fdfb370-d3c2-4344-b32b-6baa1c3eaa31/full/4000,/0/default.jpg"/>
+    </surface>
+    <surface xml:id="surface-c009">
+      <desc>Saved source image SHA-256 364c1b06723d303061a493116da2c49d99961e48d1724950d9461142b9aa9e15</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/2d8db329-d730-4684-a18f-518fdcccabc3/full/4000,/0/default.jpg"/>
+    </surface>
+    <surface xml:id="surface-c010">
+      <desc>Saved source image SHA-256 f76bda7ab1bec59e3d2c2e4c45bf965fd0fac430e22945e31c34cfc4633cf18c</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/b23e1970-848f-49c1-9e08-b5a3e11ee3aa/full/4000,/0/default.jpg"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="source-canvas" xml:id="c001">
+        <pb n="1" facs="#surface-c001"/>
+        <ab xml:id="c001-whole-u001" type="later_printed_exhibition_label" subtype="provenance" facs="#surface-c001">CENTENNIAL EXHIBITION.
+China Protestant Mission.
+No</ab>
+        <ab xml:id="c001-whole-u002" type="later_manuscript_exhibition_number" subtype="provenance" facs="#surface-c001">630</ab>
+        <ab xml:id="c001-whole-u003" type="later_manuscript_identifier" subtype="provenance" facs="#surface-c001">650□</ab>
+        <ab xml:id="c001-whole-u004" type="later_pencil_shelfmark" subtype="provenance" facs="#surface-c001">Sinica 1417</ab>
+        <ab xml:id="c001-whole-u005" type="later_pencil_circled_shelfmark" subtype="provenance" facs="#surface-c001">□ e. 286</ab>
+        <ab xml:id="c001-whole-u006" type="later_pencil_circled_shelfmark" subtype="provenance" facs="#surface-c001">Chin. 6509</ab>
+      </div>
+      <div type="source-canvas" xml:id="c002">
+        <pb n="2" facs="#surface-c002"/>
+        <ab xml:id="c002-L-u001" type="title" subtype="faithful" facs="#surface-c002">𠸄咭唎國新出</ab>
+        <ab xml:id="c002-L-u002" type="title" subtype="faithful" facs="#surface-c002">種痘奇書</ab>
+        <ab xml:id="c002-L-u004" type="printed_folio" subtype="faithful" facs="#surface-c002">一</ab>
+        <ab xml:id="c002-L-u003" type="later_pencil_foliation" subtype="provenance" facs="#surface-c002">1</ab>
+      </div>
+      <div type="source-canvas" xml:id="c003">
+        <pb n="3" facs="#surface-c003"/>
+        <ab xml:id="c003-R-u001" type="diagram_annotation" subtype="faithful" facs="#surface-c003">此臂形一點處</ab>
+        <ab xml:id="c003-R-u002" type="diagram_annotation" subtype="faithful" facs="#surface-c003">即種痘方位也</ab>
+        <ab xml:id="c003-R-u003" type="diagram_label" subtype="faithful" facs="#surface-c003">臂形</ab>
+        <ab xml:id="c003-R-u004" type="diagram_annotation" subtype="faithful" facs="#surface-c003">痘種下至第九日形</ab>
+        <ab xml:id="c003-R-u005" type="diagram_annotation" subtype="faithful" facs="#surface-c003">形模如此便是真痘</ab>
+        <ab xml:id="c003-R-u006" type="diagram_annotation" subtype="faithful" facs="#surface-c003">此象牙小簪</ab>
+        <ab xml:id="c003-R-u007" type="diagram_annotation" subtype="faithful" facs="#surface-c003">長寸許兩頭</ab>
+        <ab xml:id="c003-R-u008" type="diagram_annotation" subtype="faithful" facs="#surface-c003">宜尖薄利</ab>
+        <ab xml:id="c003-R-u009" type="diagram_label" subtype="faithful" facs="#surface-c003">象牙小簪</ab>
+        <ab xml:id="c003-R-u010" type="diagram_annotation" subtype="faithful" facs="#surface-c003">此外科小刀宜尖薄利</ab>
+        <ab xml:id="c003-R-u011" type="diagram_annotation" subtype="faithful" facs="#surface-c003">約長寸許外有玳瑁刀</ab>
+        <ab xml:id="c003-R-u012" type="diagram_annotation" subtype="faithful" facs="#surface-c003">殼兩邊夾住臨用撥開</ab>
+        <ab xml:id="c003-R-u013" type="diagram_label" subtype="faithful" facs="#surface-c003">外科小刀</ab>
+        <ab xml:id="c003-R-u014" type="diagram_label" subtype="faithful" facs="#surface-c003">刀尖</ab>
+        <ab xml:id="c003-R-u015" type="diagram_label" subtype="faithful" facs="#surface-c003">玳瑁刀殼</ab>
+        <ab xml:id="c003-R-u016" type="diagram_label" subtype="faithful" facs="#surface-c003">玳瑁刀殼</ab>
+        <ab xml:id="c003-R-u019" type="printed_folio" subtype="faithful" facs="#surface-c003">一</ab>
+        <ab xml:id="c003-L-u001" type="section_title" subtype="faithful" facs="#surface-c003">新訂種痘奇法詳悉</ab>
+        <ab xml:id="c003-L-u002" type="body_column" subtype="faithful" facs="#surface-c003">天花之症、原西邊諸國本無、前於一千一百</ab>
+        <ab xml:id="c003-L-u003" type="body_column" subtype="faithful" facs="#surface-c003">餘年、由東邊地方傳染、遍行西域、諸國時遇</ab>
+        <ab xml:id="c003-L-u004" type="body_column" subtype="faithful" facs="#surface-c003">天行、國中無一寧戶、雖都甸僻隅、多因慘遭</ab>
+        <ab xml:id="c003-L-u005" type="body_column" subtype="faithful" facs="#surface-c003">其害、或損兄弟、或損兒孫、父子親眷悲切難</ab>
+        <ab xml:id="c003-L-u006" type="body_column" subtype="faithful" facs="#surface-c003">聞、若僥倖命存、或痘癰疾於耳目手足、難以</ab>
+        <ab xml:id="c003-L-u007" type="body_column" subtype="faithful" facs="#surface-c003">枚舉、即王侯士庶、家家戶戶、無不驚惶、都以</ab>
+        <ab xml:id="c003-L-u008" type="body_column" subtype="faithful" facs="#surface-c003">生靈為重、及至前百餘年、曾有醫書種法、尚</ab>
+        <ab xml:id="c003-L-u009" type="running_title" subtype="faithful" facs="#surface-c003">新訂種痘奇法</ab>
+        <ab xml:id="c003-L-u010" type="printed_folio" subtype="faithful" facs="#surface-c003">一</ab>
+        <ab xml:id="c003-R-u017" type="later_library_stamp_outer_legend" subtype="provenance" facs="#surface-c003">BIBLIOTHECA BODLEIANA</ab>
+        <ab xml:id="c003-R-u018" type="later_library_stamp_centre" subtype="provenance" facs="#surface-c003">□</ab>
+        <ab xml:id="c003-L-u011" type="later_pencil_foliation" subtype="provenance" facs="#surface-c003">2</ab>
+      </div>
+      <div type="source-canvas" xml:id="c004">
+        <pb n="4" facs="#surface-c004"/>
+        <ab xml:id="c004-R-u001" type="body_column" subtype="faithful" facs="#surface-c004">未盡善盡美、試以其用法言之、　如遇天行</ab>
+        <ab xml:id="c004-R-u002" type="body_column" subtype="faithful" facs="#surface-c004">時、將好痘者用小刀取其痘漿、刺在未出痘</ab>
+        <ab xml:id="c004-R-u003" type="body_column" subtype="faithful" facs="#surface-c004">者臂上、俟數日痘隨此出、不能盡善、以致殞</ab>
+        <ab xml:id="c004-R-u004" type="body_column" subtype="faithful" facs="#surface-c004">命、並損害手足耳目、甚而至服藥調治者亦</ab>
+        <ab xml:id="c004-R-u005" type="body_column" subtype="faithful" facs="#surface-c004">不知何許、今本國英吉利、有畜牛取乳者甚</ab>
+        <ab xml:id="c004-R-u006" type="body_column" subtype="faithful" facs="#surface-c004">多、時即嘉慶元年、本國遇值天行、遭經遍戶、</ab>
+        <ab xml:id="c004-R-u007" type="body_column" subtype="faithful" facs="#surface-c004">紛紛傳說、惟畜牛取乳者不染天花、各聞為</ab>
+        <ab xml:id="c004-R-u008" type="body_column" subtype="faithful" facs="#surface-c004">異、適有醫生名占拿者、國內聲名昭著、頗稱</ab>
+        <ab xml:id="c004-R-u009" type="partial_running_title" subtype="unassigned-fragment" facs="#surface-c004">□</ab>
+        <ab xml:id="c004-R-u010" type="partial_printed_folio" subtype="unassigned-fragment" facs="#surface-c004">□</ab>
+        <ab xml:id="c004-L-u001" type="body_column" subtype="faithful" facs="#surface-c004">濟世良醫、見遭天花之患、不可勝數、常欲明</ab>
+        <ab xml:id="c004-L-u002" type="body_column" subtype="faithful" facs="#surface-c004">達救濟之法、隨即往視果見搾牛乳者不染</ab>
+        <ab xml:id="c004-L-u003" type="body_column" subtype="faithful" facs="#surface-c004">天花之奇、是以堅意細察、見牛奶及奶頭奶</ab>
+        <ab xml:id="c004-L-u004" type="body_column" subtype="faithful" facs="#surface-c004">傍之處、有小藍疱、形類如痘、細猜牛痘、莫非</ab>
+        <ab xml:id="c004-L-u005" type="body_column" subtype="faithful" facs="#surface-c004">能解散人痘之毒乎、隨即想法與人試種、或</ab>
+        <ab xml:id="c004-L-u006" type="body_column" subtype="faithful" facs="#surface-c004">能滅却天花之原、亦是美事、於是與人種試、</ab>
+        <ab xml:id="c004-L-u007" type="body_column" subtype="faithful" facs="#surface-c004">果經所種之人、隨種隨效、每自初種至第四</ab>
+        <ab xml:id="c004-L-u008" type="body_column" subtype="faithful" facs="#surface-c004">日、始露形影、及至八九日滿漿、至十四日靨</ab>
+        <ab xml:id="c004-L-u009" type="running_title" subtype="faithful" facs="#surface-c004">新訂種痘奇法</ab>
+        <ab xml:id="c004-L-u010" type="printed_folio" subtype="faithful" facs="#surface-c004">二</ab>
+        <ab xml:id="c004-L-u011" type="later_pencil_foliation" subtype="provenance" facs="#surface-c004">3</ab>
+      </div>
+      <div type="source-canvas" xml:id="c005">
+        <pb n="5" facs="#surface-c005"/>
+        <ab xml:id="c005-R-u001" type="body_column" subtype="faithful" facs="#surface-c005">脫全愈、後來相傳至大西洋、亞西亞、亞美利</ab>
+        <ab xml:id="c005-R-u002" type="body_column" subtype="faithful" facs="#surface-c005">加等國、依法裁種、男女大小數百餘萬、無一</ab>
+        <ab xml:id="c005-R-u003" type="body_column" subtype="faithful" facs="#surface-c005">損傷、無一復出、此法繼傳至大呂宋、得聞如</ab>
+        <ab xml:id="c005-R-u004" type="body_column" subtype="faithful" facs="#surface-c005">此奇妙、伊國王不惜萬金、特發一船裝載嬰</ab>
+        <ab xml:id="c005-R-u005" type="body_column" subtype="faithful" facs="#surface-c005">兒駛至本國、傳種此痘、由船次第輪種回返、</ab>
+        <ab xml:id="c005-R-u006" type="body_column" subtype="faithful" facs="#surface-c005">依法而行、每種必效、隨後發諭伊所屬國、小</ab>
+        <ab xml:id="c005-R-u007" type="body_column" subtype="faithful" facs="#surface-c005">呂宋亦遍行裁種、其經種者果免天花之患、</ab>
+        <ab xml:id="c005-R-u008" type="body_column" subtype="faithful" facs="#surface-c005">如此奇法、保全生靈無限、實伊國中之大幸</ab>
+        <ab xml:id="c005-R-u009" type="partial_running_title" subtype="unassigned-fragment" facs="#surface-c005">□</ab>
+        <ab xml:id="c005-R-u010" type="partial_printed_folio" subtype="unassigned-fragment" facs="#surface-c005">□</ab>
+        <ab xml:id="c005-L-u001" type="body_column" subtype="faithful" facs="#surface-c005">也、茲於嘉慶十年四月內、由卑道路滑船自</ab>
+        <ab xml:id="c005-L-u002" type="body_column" subtype="faithful" facs="#surface-c005">小呂宋裝載嬰兒、傳此痘種到澳、本國醫生</ab>
+        <ab xml:id="c005-L-u003" type="body_column" subtype="faithful" facs="#surface-c005">協同澳門醫生、照法裁種、華夷童穉、不下百</ab>
+        <ab xml:id="c005-L-u004" type="body_column" subtype="faithful" facs="#surface-c005">數、俱亦保全無恙、今予等見天花之症、荼毒</ab>
+        <ab xml:id="c005-L-u005" type="body_column" subtype="faithful" facs="#surface-c005">不淺、謹將目擊屢效之法、先與醫生詳訂、繙</ab>
+        <ab xml:id="c005-L-u006" type="body_column" subtype="faithful" facs="#surface-c005">譯輯成一書、傳行於世、諸名醫者、不可不留</ab>
+        <ab xml:id="c005-L-u007" type="body_column" subtype="faithful" facs="#surface-c005">心此法也、但此牛痘種與天花痘種不同、天</ab>
+        <ab xml:id="c005-L-u008" type="body_column" subtype="faithful" facs="#surface-c005">花之症能傳染於人、而牛痘之症非種不行、</ab>
+        <ab xml:id="c005-L-u009" type="running_title" subtype="faithful" facs="#surface-c005">新訂種痘奇法</ab>
+        <ab xml:id="c005-L-u010" type="printed_folio" subtype="faithful" facs="#surface-c005">三</ab>
+        <ab xml:id="c005-L-u011" type="later_pencil_foliation" subtype="provenance" facs="#surface-c005">4</ab>
+      </div>
+      <div type="source-canvas" xml:id="c006">
+        <pb n="6" facs="#surface-c006"/>
+        <ab xml:id="c006-R-u001" type="body" subtype="faithful" facs="#surface-c006">天花之症、定必發寒發熱、大小便結閉不通、</ab>
+        <ab xml:id="c006-R-u002" type="body" subtype="faithful" facs="#surface-c006">或昏迷不醒、喉乾舌燥唇焦亂語不等、雖用</ab>
+        <ab xml:id="c006-R-u003" type="body" subtype="faithful" facs="#surface-c006">針薰藥法、亦不能保其無虞、但其牛痘種在</ab>
+        <ab xml:id="c006-R-u004" type="body" subtype="faithful" facs="#surface-c006">於所種之處、只出一顆、如小指頭大、至寒熱</ab>
+        <ab xml:id="c006-R-u005" type="body" subtype="faithful" facs="#surface-c006">各症不能相染、內中或有些微寒微熱、雖服</ab>
+        <ab xml:id="c006-R-u006" type="body" subtype="faithful" facs="#surface-c006">藥不服藥、與病亦無干碍、想此靈妙之法、相</ab>
+        <ab xml:id="c006-R-u007" type="body" subtype="faithful" facs="#surface-c006">傳於數十年之後、永不防有染天花之患矣、</ab>
+        <ab xml:id="c006-R-u008" type="body" subtype="faithful" facs="#surface-c006">此法始憑牛出之種種於人、後將人出之痘</ab>
+        <ab xml:id="c006-L-u001" type="body" subtype="faithful" facs="#surface-c006">漿、可輪傳種於萬萬人、其種法、不論春夏秋</ab>
+        <ab xml:id="c006-L-u002" type="body" subtype="faithful" facs="#surface-c006">冬、遇時皆合、不分男女大小、以其年紀幼少</ab>
+        <ab xml:id="c006-L-u003" type="body" subtype="faithful" facs="#surface-c006">者為佳、初將外科小刀、向相近肩膊臂上不</ab>
+        <ab xml:id="c006-L-u004" type="body" subtype="faithful" facs="#surface-c006">拘左右手、平刺皮膜、或用鐵針如錐嘴大、務</ab>
+        <ab xml:id="c006-L-u005" type="body" subtype="faithful" facs="#surface-c006">要最薄利者方合用、切不可直企刺入、若刀</ab>
+        <ab xml:id="c006-L-u006" type="body" subtype="faithful" facs="#surface-c006">入肉裏、血出太多、將所種之痘漿攻出、恐不</ab>
+        <ab xml:id="c006-L-u007" type="body" subtype="faithful" facs="#surface-c006">成功、務宜平刺皮膜、無血為妙、或血出些少、</ab>
+        <ab xml:id="c006-L-u008" type="body" subtype="faithful" facs="#surface-c006">亦無妨碍、如種下四日、其形發紅、至六日起</ab>
+        <ab xml:id="c006-L-running-title" type="running-title" subtype="faithful" facs="#surface-c006">新訂種痘奇法</ab>
+        <ab xml:id="c006-L-folio" type="printed-folio" subtype="faithful" facs="#surface-c006">四</ab>
+        <ab xml:id="c006-L-pencil" type="later-pencil-foliation" subtype="provenance" facs="#surface-c006">5</ab>
+        <ab xml:id="c006-R-edge-print" type="edge-running-title-fragment" subtype="unassigned-fragment" facs="#surface-c006">□</ab>
+      </div>
+      <div type="source-canvas" xml:id="c007">
+        <pb n="7" facs="#surface-c007"/>
+        <ab xml:id="c007-R-u001" type="body" subtype="faithful" facs="#surface-c007">一小疱、八日其疱畧大些、頂平不尖、中央一</ab>
+        <ab xml:id="c007-R-u002" type="body" subtype="faithful" facs="#surface-c007">點硬的、週圍漲如清水、根脚如有紅線圍纏、</ab>
+        <ab xml:id="c007-R-u003" type="body" subtype="faithful" facs="#surface-c007">覺有些疼、至九日漿已滿足、若取痘漿種於</ab>
+        <ab xml:id="c007-R-u004" type="body" subtype="faithful" facs="#surface-c007">別人、務以第九日為度、恐後其漿膿漸乾、如</ab>
+        <ab xml:id="c007-R-u005" type="body" subtype="faithful" facs="#surface-c007">是第十四日、或至十八日、靨焦脫退、其人永</ab>
+        <ab xml:id="c007-R-u006" type="body" subtype="faithful" facs="#surface-c007">無出痘矣、　如取種之法、以鮮痘漿即時傳</ab>
+        <ab xml:id="c007-R-u007" type="body" subtype="faithful" facs="#surface-c007">種更妙、可將鐵小針、向其痘相近邊傍處、刺</ab>
+        <ab xml:id="c007-R-u008" type="body" subtype="faithful" facs="#surface-c007">三四小吼、俟有些漿水流出、沾在小刀尖上、</ab>
+        <ab xml:id="c007-L-u001" type="body" subtype="faithful" facs="#surface-c007">即可種於別人、若離隔遠涉、難取鮮漿、可將</ab>
+        <ab xml:id="c007-L-u002" type="body" subtype="faithful" facs="#surface-c007">象牙小簪沾些痘漿、俟乾了藏於鵝毛筒內、</ab>
+        <ab xml:id="c007-L-u003" type="body" subtype="faithful" facs="#surface-c007">用蜜蠟封固、可能留至兩個月之內、如過期</ab>
+        <ab xml:id="c007-L-u004" type="body" subtype="faithful" facs="#surface-c007">斷斷不能用矣、務宜於兩月之內、早種為佳、</ab>
+        <ab xml:id="c007-L-u005" type="body" subtype="faithful" facs="#surface-c007">臨種之時、於毛筒內取出象牙小簪、用煖水</ab>
+        <ab xml:id="c007-L-u006" type="body" subtype="faithful" facs="#surface-c007">熏潤、先將鐵扁針刺破皮膜、然後將牙小簪</ab>
+        <ab xml:id="c007-L-u007" type="body" subtype="faithful" facs="#surface-c007">上之痘種插入刺破皮膜處、少頃拔出、如有</ab>
+        <ab xml:id="c007-L-u008" type="body" subtype="faithful" facs="#surface-c007">微血、勿被衣衫拭去、此種法或出一顆、稱為</ab>
+        <ab xml:id="c007-L-running-title" type="running-title" subtype="faithful" facs="#surface-c007">□訂種痘奇法</ab>
+        <ab xml:id="c007-L-folio" type="printed-folio" subtype="faithful" facs="#surface-c007">五</ab>
+        <ab xml:id="c007-L-pencil" type="later-pencil-foliation" subtype="provenance" facs="#surface-c007">6</ab>
+        <ab xml:id="c007-R-edge-print" type="edge-running-title-fragment" subtype="unassigned-fragment" facs="#surface-c007">□</ab>
+      </div>
+      <div type="source-canvas" xml:id="c008">
+        <pb n="8" facs="#surface-c008"/>
+        <ab xml:id="c008-R-u001" type="body" subtype="faithful" facs="#surface-c008">偽痘、其痘頂圓而且軟、中央無一點硬的、漿</ab>
+        <ab xml:id="c008-R-u002" type="body" subtype="faithful" facs="#surface-c008">水白色如膿、根脚不甚鮮紅、是為偽也、其痘</ab>
+        <ab xml:id="c008-R-u003" type="body" subtype="faithful" facs="#surface-c008">雖偽、實無患險、不過遇時行而復出矣、若眞</ab>
+        <ab xml:id="c008-R-u004" type="body" subtype="faithful" facs="#surface-c008">的、其痘頂平、中央一點硬的、根脚鮮紅如紅</ab>
+        <ab xml:id="c008-R-u005" type="body" subtype="faithful" facs="#surface-c008">線圍纏、痘脚之外覺有紅影、痘漿如清水不</ab>
+        <ab xml:id="c008-R-u006" type="body" subtype="faithful" facs="#surface-c008">轉白色如膿者便眞、須於此用意分別、如遇</ab>
+        <ab xml:id="c008-R-u007" type="body" subtype="faithful" facs="#surface-c008">偽痘、再取種種於別處、無不效驗者也。</ab>
+        <ab xml:id="c008-R-u008" type="body" subtype="faithful" facs="#surface-c008">凡戒口不食猪肉鷄鴨鹹物及酒更佳宜</ab>
+        <ab xml:id="c008-L-u001" type="body" subtype="faithful" facs="#surface-c008">食粥飯鮮魚及瓜菜等物可也。</ab>
+        <ab xml:id="c008-L-u002" type="colophon" subtype="faithful" facs="#surface-c008">英咭唎國公班衙命來廣統攝大班貿易事</ab>
+        <ab xml:id="c008-L-u003" type="colophon" subtype="faithful" facs="#surface-c008">務哆啉文敬輯</ab>
+        <ab xml:id="c008-L-u004" type="colophon" subtype="faithful" facs="#surface-c008">英吉利國公班衙命來廣醫學跛臣敬訂</ab>
+        <ab xml:id="c008-L-u005" type="colophon" subtype="faithful" facs="#surface-c008">英吉利國世襲男爵乾隆五十八年隨國使</ab>
+        <ab xml:id="c008-L-u006" type="colophon" subtype="faithful" facs="#surface-c008">臣入京朝覲現理公班衙事務斯當東繙</ab>
+        <ab xml:id="c008-L-u007" type="colophon" subtype="faithful" facs="#surface-c008">譯與外洋會隆行商人鄭崇謙敬書</ab>
+        <ab xml:id="c008-L-u008" type="colophon" subtype="faithful" facs="#surface-c008">一千八百零四年</ab>
+        <ab xml:id="c008-L-u009" type="colophon" subtype="faithful" facs="#surface-c008">新刋</ab>
+        <ab xml:id="c008-L-running-title" type="running-title" subtype="faithful" facs="#surface-c008">新訂種痘奇法</ab>
+        <ab xml:id="c008-L-folio" type="printed-folio" subtype="faithful" facs="#surface-c008">六</ab>
+        <ab xml:id="c008-L-pencil" type="later-pencil-foliation" subtype="provenance" facs="#surface-c008">7</ab>
+        <ab xml:id="c008-R-edge-print" type="edge-running-title-fragment" subtype="unassigned-fragment" facs="#surface-c008">□</ab>
+      </div>
+      <div type="source-canvas" xml:id="c009">
+        <pb n="9" facs="#surface-c009"/>
+        <ab xml:id="c009-R-u001" type="colophon" subtype="faithful" facs="#surface-c009">一千八百五十八年本港</ab>
+        <ab xml:id="c009-R-u002" type="colophon" subtype="faithful" facs="#surface-c009">憲諭重刻</ab>
+        <ab xml:id="c009-R-edge-print" type="edge-running-title-fragment" subtype="unassigned-fragment" facs="#surface-c009">□</ab>
+      </div>
+      <div type="source-canvas" xml:id="c010">
+        <pb n="10" facs="#surface-c010"/>
+      </div>
+    </body>
+  </text>
+</TEI>

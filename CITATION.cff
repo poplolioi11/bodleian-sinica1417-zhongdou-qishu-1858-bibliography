@@ -1,9 +1,9 @@
 cff-version: 1.2.0
-message: Please cite this bibliographic dataset and cite the historical source separately.
+message: Please cite the fixed dataset version and historical source separately.
 type: dataset
-title: '𠸄咭唎國新出種痘奇書 / Ying ji li guo xin chu zhong dou qi shu [A new treatise on vaccination
-  from England]: Sinica 1417 (1858), bibliographic record'
-version: 0.1.0
+title: '𠸄咭唎國新出種痘奇書 / Ying ji li guo xin chu zhong dou qi shu [A new treatise on vaccination from England]:
+  Sinica 1417 (1858), transcription dataset'
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu
@@ -24,16 +24,17 @@ keywords:
 - Late Qing publishing
 - Translation history
 - Bibliography
-url: https://github.com/poplolioi11/bodleian-sinica1417-zhongdou-qishu-1858-bibliography
-abstract: Ying ji li guo xin chu zhong dou qi shu (𠸄咭唎國新出種痘奇書) is a Chinese vaccination
-  publication held by the Bodleian Library, Oxford, catalogued as an 1858 [Hong Kong]
-  edition edited by Wilhelm Lobscheid (Sinica 1417). This bibliographic dataset identifies
-  its title variants, editor, publication date and place, catalogued extent, and stable
-  links to the original item and IIIF images, for research on late Qing medical publishing,
-  translation, and circulation. It supplies JSON, CSV, and TEI XML bibliographic records
-  with Chinese and English documentation; it does not transcribe the book. The records
-  were compiled with AI assistance from the library catalogue and digital image inventory
-  and have not been reviewed by a human subject specialist; the bracketed place and
-  first title character retain their source qualifications.
-date-released: '2026-11-11'
-doi: 10.5281/zenodo.24146872
+- 新訂種痘奇法
+- TEI XML
+url: https://github.com/poplolioi11/bodleian-sinica1417-zhongdou-qishu-1858-bibliography/releases/tag/v0.2.0
+abstract: Ying ji li guo xin chu zhong dou qi shu (𠸄咭唎國新出種痘奇書; Bodleian Libraries, Oxford, Sinica 1417)
+  is a Chinese vaccination pamphlet catalogued as an 1858 [Hong Kong] reprint edited by Wilhelm Lobscheid.
+  It discusses the introduction and circulation of a Western vaccination practice and includes historical
+  explanations, instrument and lesion illustrations with textual labels, and publication statements. It
+  provides source material for research on late Qing medical publishing, medical translation, and Hong
+  Kong printing history. This version first supplies an image-based initial transcription of the witness’s
+  14 main original printed text faces, with later library inscriptions and unattributed folded-edge fragments
+  distinguished, in source-linked JSON, TXT, and TEI XML. AI-assisted readings and image gaps are marked;
+  the text has not undergone full human collation or subject-specialist review.
+date-released: '2026-11-13'
+doi: 10.5281/zenodo.24182335
